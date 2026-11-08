@@ -1,0 +1,22 @@
+{
+  "wheel_id": 850,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-110",
+  "project": "mortgage-brokers-bendigo-what-to-expect-fb01f08ce9667f9fabf1792",
+  "parent_t1_ref": "bendigohomeloanbroker-154",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers bendigo what to expect",
+  "intended_url": "http://mortgage-brokers-bendigo-what-to-expect-fb01f08ce9667f9fabf1792.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "6b222bfb90facbf8",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bendigohomeloanbroker-154/",
+      "anchor": "mortgage brokers bendigo pros and cons",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
